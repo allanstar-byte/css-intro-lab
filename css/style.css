@@ -1,0 +1,25 @@
+body {
+    background-color: #00b3e6;
+    
+}
+
+div {
+    width: 700px;
+    margin: auto;
+    font-family: "Helvetica Neue";
+    background: rgb(54, 24, 24);
+    padding: 30px;
+    color: aliceblue;
+    
+}
+
+#main-header {
+    font-size: 22px;
+    color: aliceblue;
+
+}
+
+.perspective-questions {
+    font-style: italic;
+    color: aliceblue;
+}
